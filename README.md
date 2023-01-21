@@ -1,2 +1,2 @@
 # Pong-Game
-Its a virtual cage
+Its a virtual Game.
